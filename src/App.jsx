@@ -1,9 +1,9 @@
-import BooksTable from "./BooksTable";
+import School from "./School";
 
 function App() {
   return (
     <div>
-      <BooksTable />
+      <School />
     </div>
   );
 }
